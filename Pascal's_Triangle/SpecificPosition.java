@@ -28,4 +28,4 @@
 */
 
 // As the orginal parameters to find a particular position in Pascal triangle is function nCr(row-1, col-1);
-// so, if we send the parameters then we will be easily able to find the position
+// so, if we send the parameters then we will be easily able to find the position.
