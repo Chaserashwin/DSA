@@ -29,11 +29,11 @@
                 function PrintRow(int n) {
                     int ans=1;
                     print(ans);
-                    for(int i=1; i<=n; i++) {
+                    for(int i=1; i<n; i++) {
                         ans = ans*(n-i);
                         ans = ans/i;
+                        print(ans);
                     }
-                    return ans;
                 }
     TC -> O(n)
     SC -> O(1)
