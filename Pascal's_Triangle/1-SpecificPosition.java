@@ -1,11 +1,11 @@
 // Pascal triangle will be look like this:-
 //  row no.
-//    0                         1
-//    1                     1       1
-//    2                 1       2       1
-//    3             1       3       3       1
-//    4         1       4       6       4       1
-//    5     1       5       10      10      5       1
+//    1                         1
+//    2                     1       1
+//    3                 1       2       1
+//    4             1       3       3       1
+//    5         1       4       6       4       1
+//    6     1       5       10      10      5       1
 
 // In order to find a particular position in question
 // eg. row=3, col=3 which is [3]
