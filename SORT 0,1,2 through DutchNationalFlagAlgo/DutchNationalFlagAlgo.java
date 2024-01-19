@@ -1,6 +1,6 @@
 /*
 
-Most optimal way to sort the array containing 0|1|2 is by using the ["Dutch Flag Algorithm"]
+Most optimal way to sort the array containing 0|1|2 is by using the ["Dutch National Flag Algorithm"]
 
 Explaination of this Algorithm:-
 we use 3 pointers here to use this Algo...
